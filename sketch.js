@@ -40,7 +40,7 @@ function draw(){
     
     fill (255,255,0);
     noStroke();
-    text("hand represents seconds",290,250);
+    text("hand represents minutes",290,250);
     
     fill (0,0,255);
     stroke(255,255,255);
@@ -49,7 +49,7 @@ function draw(){
 
     fill (255,255,0);
     noStroke();
-    text("hand represents seconds",280,300);
+    text("hand represents hours",280,300);
 
     translate(500,500);
     rotate(-90);
